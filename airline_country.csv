@@ -1,257 +1,257 @@
-airline,most_common_country
-8E,US
-AA,US
-BB,PR
-NH,JP
-NX,MO
-YC,RU
-NZ,NZ
-MU,CN
-Y4,MX
-OS,AT
-HU,CN
-BC,JP
-MF,CN
-JL,JP
-B6,US
-WN,US
-F9,US
-9K,PR
-JD,CN
-WF,NO
-TR,SG
-UA,US
-FI,IS
-AR,AR
-MH,MY
-FR,IT
-VB,MX
-W6,HU
-CA,CN
-NO,IT
-SU,RU
-TK,TR
-BA,GB
-ZH,CN
-S7,RU
-5T,CA
-BR,TW
-7R,RU
-9C,CN
-QF,AU
-AS,US
-5J,PH
-BK,CN
-U2,GB
-HA,US
-AI,IN
-RO,RO
-SK,DK
-FB,BG
-LH,DE
-KN,CN
-H2,CL
-NK,US
-3U,CN
-G4,US
-DY,NO
-AM,MX
-GA,ID
-4G,RU
-ZL,AU
-U6,RU
-R3,RU
-LS,GB
-GF,BH
-AY,FI
-PS,UA
-QR,QA
-HO,CN
-G5,CN
-EW,DE
-PC,TR
-HY,UZ
-TJ,PR
-SY,US
-KO,US
-VW,MX
-B2,BY
-DE,DE
-DL,US
-IB,ES
-SP,PT
-CX,HK
-NT,ES
-VY,ES
-PN,CN
-AV,CO
-OR,NL
-7S,US
-HD,JP
-LO,PL
-5Y,US
-CZ,CN
-OU,HR
-GV,US
-AH,DZ
-N8,US
-8L,CN
-9E,US
-9R,CO
-FM,CN
-WZ,RU
-EI,IE
-IR,IR
-SN,BE
-BL,VN
-UT,RU
-KQ,KE
-TY,NC
-WS,CA
-PQ,PH
-I2,ES
-GS,CN
-KE,KR
-TO,FR
-SG,IN
-UX,ES
-3M,PR
-6E,IN
-NY,IS
-QS,CZ
-TV,CN
-5O,FR
-YX,US
-LA,CL
-LG,LU
-BX,KR
-EU,CN
-ZB,GB
-SA,ZA
-CM,PA
-I8,RU
-AD,BR
-D2,RU
-W5,IR
-EP,IR
-HV,NL
-LJ,KR
-JJ,BR
-JU,RS
-LX,CH
-G8,IN
-TP,PT
-P9,PE
-DT,AO
-EY,AE
-SQ,SG
-XQ,TR
-KC,KZ
-7W,UA
-LY,IL
-VA,AU
-CN,CN
-ET,ET
-OB,BO
-AF,FR
-UU,RE
-KL,NL
-XK,FR
-BT,LV
-ME,LB
-JR,CN
-OZ,KR
-OK,CZ
-EN,IT
-KU,KW
-UC,US
-A9,GE
-JQ,AU
-MD,MG
-J2,AZ
-EK,AE
-P6,CA
-MS,EG
-W3,NG
-DS,CH
-OM,MN
-KP,TG
-IA,IQ
-WY,OM
-TM,MZ
-5N,RU
-XL,EC
-ZW,US
-UL,LK
-G7,US
-PY,SR
-TU,TN
-2L,CH
-EM,US
-Y8,CN
-G3,BR
-BJ,TN
-KM,MT
-TG,TH
-B9,IR
-HX,HK
-IX,IN
-AE,TW
-T3,GB
-TA,US
-RJ,JO
-9U,MD
-P5,CO
-C5,US
-EV,US
-SC,CN
-SB,NC
-CI,TW
-EB,ES
-XP,US
-MK,MU
-3E,US
-2I,PE
-YV,US
-J9,KW
-MQ,US
-NS,CN
-ON,NR
-BW,TT
-HZ,RU
-M5,US
-TC,TZ
-EF,TW
-NU,JP
-TX,FR
-UO,HK
-SS,FR
-CU,CU
-K6,KH
-B7,TW
-YW,ES
-HM,SC
-GR,GG
-TN,PF
-KX,KY
-S4,PT
-LP,PE
-PZ,PY
-CJ,GB
-D0,US
-LR,US
-UJ,EG
-OO,US
-FV,RU
-KY,CN
-Q6,AU
-QG,ZA
-OY,AR
-TZ,SG
-QU,UA
-QX,US
-7Q,DO
-8D,LK
-6D,ID
-XE,KR
-VH,VE
+airline,country,iso,type,country_covid
+8E,US,USA,Regional,United States
+AA,US,USA,Mainline,United States
+BB,PR,PRI,Regional,Puerto Rico
+NH,JP,JPN,Mainline,Japan
+NX,MO,MAC,Mainline,Macao
+YC,RU,RUS,Regional,Russia
+NZ,NZ,NZL,Mainline,New Zealand
+MU,CN,CHN,Mainline,China
+Y4,MX,MEX,Low-cost,Mexico
+OS,AT,AUT,Mainline,Austria
+HU,CN,CHN,Mainline,China
+BC,JP,JPN,Low-cost,Japan
+MF,CN,CHN,Mainline,China
+JL,JP,JPN,Regional,Japan
+B6,US,USA,Low-cost,United States
+WN,US,USA,Low-cost,United States
+F9,US,USA,Low-cost,United States
+9K,PR,PRI,Regional,Puerto Rico
+JD,CN,CHN,Mainline,China
+WF,NO,NOR,Regional,Norway
+TR,SG,SGP,Low-cost,Singapore
+UA,US,USA,Mainline,United States
+FI,IS,ISL,Mainline,Iceland
+AR,AR,ARG,Mainline,Argentina
+MH,MY,MYS,Mainline,Malaysia
+FR,IT,ITA,Low-cost,Italy
+VB,MX,MEX,Low-cost,Mexico
+W6,HU,HUN,Low-cost,Hungary
+CA,CN,CHN,Mainline,China
+NO,IT,ITA,Leisure,Italy
+SU,RU,RUS,Mainline,Russia
+TK,TR,TUR,Mainline,Turkey
+BA,GB,GBR,Mainline,United Kingdom
+ZH,CN,CHN,Mainline,China
+S7,RU,RUS,Mainline,Russia
+5T,CA,CAN,Regional,Canada
+BR,TW,TWN,Mainline,Taiwan
+7R,RU,RUS,Regional,Russia
+9C,CN,CHN,Low-cost,China
+QF,AU,AUS,Mainline,Australia
+AS,US,USA,Mainline,United States
+5J,PH,PHL,Low-cost,Philippines
+BK,CN,CHN,Mainline,China
+U2,GB,GBR,Low-cost,United Kingdom
+HA,US,USA,Regional,United States
+AI,IN,IND,Mainline,India
+RO,RO,ROU,Mainline,Romania
+SK,DK,DNK,Mainline,Denmark
+FB,BG,BGR,Mainline,Bulgaria
+LH,DE,DEU,Cargo,Germany
+KN,CN,CHN,Low-cost,China
+H2,CL,CHL,Low-cost,Chile
+NK,US,USA,Low-cost,United States
+3U,CN,CHN,Mainline,China
+G4,US,USA,Low-cost,United States
+DY,NO,NOR,Low-cost,Norway
+AM,MX,MEX,Mainline,Mexico
+GA,ID,IDN,Mainline,Indonesia
+4G,RU,RUS,Mainline,Russia
+ZL,AU,AUS,Regional,Australia
+U6,RU,RUS,Mainline,Russia
+R3,RU,RUS,Mainline,Russia
+LS,GB,GBR,Leisure,United Kingdom
+GF,BH,BHR,Mainline,Bahrain
+AY,FI,FIN,Mainline,Finland
+PS,UA,UKR,Mainline,Ukraine
+QR,QA,QAT,Mainline,Qatar
+HO,CN,CHN,Mainline,China
+G5,CN,CHN,Low-cost,China
+EW,DE,DEU,Low-cost,Germany
+PC,TR,TUR,Low-cost,Turkey
+HY,UZ,UZB,Mainline,Uzbekistan
+TJ,PR,PRI,Regional,Puerto Rico
+SY,US,USA,Leisure,United States
+KO,US,USA,Regional,United States
+VW,MX,MEX,Regional,Mexico
+B2,BY,BLR,Mainline,Belarus
+DE,DE,DEU,Leisure,Germany
+DL,US,USA,Mainline,United States
+IB,ES,ESP,Mainline,Spain
+SP,PT,PRT,Regional,Portugal
+CX,HK,HKG,Mainline,Hong Kong
+NT,ES,ESP,Regional,Spain
+VY,ES,ESP,Low-cost,Spain
+PN,CN,CHN,Low-cost,China
+AV,CO,COL,Mainline,Colombia
+OR,NL,NLD,Leisure,Netherlands
+7S,US,USA,Regional,United States
+HD,JP,JPN,Low-cost,Japan
+LO,PL,POL,Mainline,Poland
+5Y,US,USA,Cargo,United States
+CZ,CN,CHN,Mainline,China
+OU,HR,HRV,Mainline,Croatia
+GV,US,USA,Regional,United States
+AH,DZ,DZA,Cargo,Algeria
+N8,US,USA,Cargo,United States
+8L,CN,CHN,Low-cost,China
+9E,US,USA,Regional,United States
+9R,CO,COL,Regional,Colombia
+FM,CN,CHN,Mainline,China
+WZ,RU,RUS,Leisure,Russia
+EI,IE,IRL,Mainline,Ireland
+IR,IR,IRN,Mainline,Iran
+SN,BE,BEL,Mainline,Belgium
+BL,VN,VNM,Low-cost,Vietnam
+UT,RU,RUS,Mainline,Russia
+KQ,KE,KEN,Mainline,Kenya
+TY,NC,NCL,Regional,New Caledonia
+WS,CA,CAN,Mainline,Canada
+PQ,PH,PHL,Low-cost,Philippines
+I2,ES,ESP,Low-cost,Spain
+GS,CN,CHN,Regional,China
+KE,KR,KOR,Mainline,South Korea
+TO,FR,FRA,Low-cost,France
+SG,IN,IND,Low-cost,India
+UX,ES,ESP,Leisure,Spain
+3M,PR,PRI,Regional,Puerto Rico
+6E,IN,IND,Low-cost,India
+NY,IS,ISL,Regional,Iceland
+QS,CZ,CZE,Leisure,Czechia
+TV,CN,CHN,Mainline,China
+5O,FR,FRA,Cargo,France
+YX,US,USA,Regional,United States
+LA,CL,CHL,Mainline,Chile
+LG,LU,LUX,Mainline,Luxembourg
+BX,KR,KOR,Low-cost,South Korea
+EU,CN,CHN,Regional,China
+ZB,GB,GBR,Mainline,United Kingdom
+SA,ZA,ZAF,Mainline,South Africa
+CM,PA,PAN,Mainline,Panama
+I8,RU,RUS,Regional,Russia
+AD,BR,BRA,Low-cost,Brazil
+D2,RU,RUS,Regional,Russia
+W5,IR,IRN,Mainline,Iran
+EP,IR,IRN,Regional,Iran
+HV,NL,NLD,Low-cost,Netherlands
+LJ,KR,KOR,Low-cost,South Korea
+JJ,BR,BRA,Mainline,Brazil
+JU,RS,SRB,Leisure,Serbia
+LX,CH,CHE,Mainline,Switzerland
+G8,IN,IND,Low-cost,India
+TP,PT,PRT,Mainline,Portugal
+P9,PE,PER,Cargo,Peru
+DT,AO,AGO,Mainline,Angola
+EY,AE,ARE,Mainline,United Arab Emirates
+SQ,SG,SGP,Mainline,Singapore
+XQ,TR,TUR,Leisure,Turkey
+KC,KZ,KAZ,Mainline,Kazakhstan
+7W,UA,UKR,Leisure,Ukraine
+LY,IL,ISR,Mainline,Israel
+VA,AU,AUS,Regional,Australia
+CN,CN,CHN,Regional,China
+ET,ET,ETH,Mainline,Ethiopia
+OB,BO,BOL,Mainline,Bolivia
+AF,FR,FRA,Mainline,France
+UU,RE,REU,Mainline,
+KL,NL,NLD,Mainline,Netherlands
+XK,FR,FRA,Regional,France
+BT,LV,LVA,Regional,Latvia
+ME,LB,LBN,Mainline,Lebanon
+JR,CN,CHN,Regional,China
+OZ,KR,KOR,Mainline,South Korea
+OK,CZ,CZE,Mainline,Czechia
+EN,IT,ITA,Regional,Italy
+KU,KW,KWT,Mainline,Kuwait
+UC,US,USA,Cargo,United States
+A9,GE,GEO,Mainline,Georgia
+JQ,AU,AUS,Low-cost,Australia
+MD,MG,MDG,Mainline,Madagascar
+J2,AZ,AZE,Low-cost,Azerbaijan
+EK,AE,ARE,Mainline,United Arab Emirates
+P6,CA,CAN,Leisure,Canada
+MS,EG,EGY,Mainline,Egypt
+W3,NG,NGA,Mainline,Nigeria
+DS,CH,CHE,Low-cost,Switzerland
+OM,MN,MNG,Mainline,Mongolia
+KP,TG,TGO,Regional,Togo
+IA,IQ,IRQ,Mainline,Iraq
+WY,OM,OMN,Mainline,Oman
+TM,MZ,MOZ,Mainline,Mozambique
+5N,RU,RUS,Regional,Russia
+XL,EC,ECU,Mainline,Ecuador
+ZW,US,USA,Regional,United States
+UL,LK,LKA,Mainline,Sri Lanka
+G7,US,USA,Regional,United States
+PY,SR,SUR,Mainline,Suriname
+TU,TN,TUN,Mainline,Tunisia
+2L,CH,CHE,Cargo,Switzerland
+EM,US,USA,Cargo,United States
+Y8,CN,CHN,Cargo,China
+G3,BR,BRA,Low-cost,Brazil
+BJ,TN,TUN,Mainline,Tunisia
+KM,MT,MLT,Mainline,Malta
+TG,TH,THA,Mainline,Thailand
+B9,IR,IRN,Mainline,Iran
+HX,HK,HKG,Mainline,Hong Kong
+IX,IN,IND,Low-cost,India
+AE,TW,TWN,Regional,Taiwan
+T3,GB,GBR,Regional,United Kingdom
+TA,US,USA,Airline ACMI,United States
+RJ,JO,JOR,Mainline,Jordan
+9U,MD,MDA,Mainline,Moldova
+P5,CO,COL,Low-cost,Colombia
+C5,US,USA,Regional,United States
+EV,US,USA,Regional,United States
+SC,CN,CHN,Mainline,China
+SB,NC,NCL,Regional,New Caledonia
+CI,TW,TWN,Mainline,Taiwan
+EB,ES,ESP,Leisure,Spain
+XP,US,USA,Low-cost,United States
+MK,MU,MUS,Mainline,Mauritius
+3E,US,USA,Regional,United States
+2I,PE,PER,Cargo,Peru
+YV,US,USA,Regional,United States
+J9,KW,KWT,Low-cost,Kuwait
+MQ,US,USA,Regional,United States
+NS,CN,CHN,Regional,China
+ON,NR,NRU,Mainline,Nauru
+BW,TT,TTO,Mainline,Trinidad and Tobago
+HZ,RU,RUS,Regional,Russia
+M5,US,USA,Regional,United States
+TC,TZ,TZA,Mainline,Tanzania
+EF,TW,TWN,Cargo,Taiwan
+NU,JP,JPN,Regional,Japan
+TX,FR,FRA,Regional,France
+UO,HK,HKG,Low-cost,Hong Kong
+SS,FR,FRA,Leisure,France
+CU,CU,CUB,Mainline,Cuba
+K6,KH,KHM,Mainline,Cambodia
+B7,TW,TWN,Regional,Taiwan
+YW,ES,ESP,Regional,Spain
+HM,SC,SYC,Mainline,Seychelles
+GR,GG,GGY,Regional,Guernsey
+TN,PF,PYF,Mainline,French Polynesia
+KX,KY,CYM,Mainline,Cayman Islands
+S4,PT,PRT,Mainline,Portugal
+LP,PE,PER,Mainline,Peru
+PZ,PY,PRY,Mainline,Paraguay
+CJ,GB,GBR,Regional,United Kingdom
+D0,US,USA,Cargo,United States
+LR,US,USA,Mainline,United States
+UJ,EG,EGY,Cargo,Egypt
+OO,US,USA,Regional,United States
+FV,RU,RUS,Mainline,Russia
+KY,CN,CHN,Mainline,China
+Q6,AU,AUS,Low-cost,Australia
+QG,ZA,ZAF,Low-cost,South Africa
+OY,AR,ARG,Leisure,Argentina
+TZ,SG,SGP,Regional,Singapore
+QU,UA,UKR,Leisure,Ukraine
+QX,US,USA,Regional,United States
+7Q,DO,DOM,Regional,Dominican Republic
+8D,LK,LKA,Cargo,Sri Lanka
+6D,ID,IDN,Leisure,Indonesia
+XE,KR,KOR,Regional,South Korea
+VH,VE,VEN,Low-cost,Venezuela
