@@ -1,4 +1,4 @@
-airline_iata,date,passenger_load_factor_pct
+airline_iata,date,load_factor
 EI,2020-07,24.6961551201366
 EI,2020-08,29.712449009324
 EI,2020-09,25.9656989082807
